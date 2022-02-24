@@ -1,0 +1,62 @@
+.mile{
+    justify-content: space-around;
+    padding-left: 200px;
+    padding-top: 50px;
+    display:flex;
+    width:70%;
+    font-size: 40px;
+}
+
+.trust{
+    padding-top: 50px;
+}
+
+.spa{
+    justify-content: space-between;
+    width: 100%;
+    text-align:center;
+    font-size:35px;
+}
+.siv{
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.atl{
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.will{
+    color:#6D0AB7
+    
+}
+
+.mspa{
+    color:#f44336
+}
+
+.edf{
+    color:#092B99
+}
+
+.sel button{
+    background-color: white;
+    border-color: white;
+    color: #009BC0;
+    margin-bottom:50px;
+    padding:10px;
+    border-radius:12px
+
+}
+
+.sel{
+    background-color:#009BC0;
+    margin-top:100px
+
+}
+
+.sel h3{
+    color:white;
+    padding-top:50px;
+}

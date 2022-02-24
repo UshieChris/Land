@@ -1,0 +1,55 @@
+.heada{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-left: -1100px;
+    margin-right: 900px;
+    padding-top: 0px;
+    /* margin-bottom: 800px; */
+    
+}
+.title{
+    text-align: center;
+    align-items: center;
+    white-space: nowrap;
+    color: white;
+    font-size:43px;
+    
+    
+    
+}
+
+.texbod{
+    color: white;
+    text-align: center;
+    align-items: center;
+    font-size: 20px;
+    margin-left: 20px;
+    padding-left: 100px;
+    padding-right: 100px
+}
+
+
+.but{
+    border: 1px solid #009bc0;
+    background-color: #009BC0;
+    
+    margin-left: 50px;
+    width: 200px;
+    border-radius: 12px;
+    color:white;
+
+    justify-content: center;
+    text-align: center;
+    margin-left: 400px;
+    margin-top: 60px;
+}
+
+.mylogs{
+    /* text-align: right; */
+    float: right;
+}
+
+.text{
+    
+}
