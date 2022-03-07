@@ -39,7 +39,7 @@ const Mainnav = () => {
 
                     <div className='mylist'>
                         <div className='sub'>
-                        <li><a href="#">Our Projects</a></li>
+                        <li><a href="#">Our Products</a></li>
                         <li><a href="#p">Projects reels</a></li>
                         <li><a href="#">About us</a></li>
                         <li><a href="#">Services</a></li>
